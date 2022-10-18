@@ -1,3 +1,3 @@
 # english-for-designers
 
-My in progress class work.
+My in progress class work
