@@ -8,17 +8,20 @@ Graphic designer. Specialized in online, social media and UI design.
 
 <! -- Maybe a photo of yourself? -->
 
-![Alt text description.](krystofhenzl.jpg)
+![Krystof Henzl, night photo, staying in front of statue, looking cool](krystofhenzl.jpg)
 
-A series of short paragraphs (one to three) about who you are, beyond being a designer; a personal bio that tells your story, with an emphasis on keywords about what you do, your passions, experience, etc. Consider each paragraph as two to three short, meaningful descriptions (120 characters each). Don’t worry about length — write first — then edit for clarity and conciseness later.
+I focus on design that is smart, clear, and working. My job is to help you sell your products, whatever they are.
 
-## Featured Project
+Currently studying Graphic design at a university in Prague, also, I work at an agency called DDB FTW. But I have many other projects and one of them could be yours.
 
-![Write an alternative text description.](images/featured-project-01.png)
+Besides my work life, I am an energetic guy interested in sports, technology, art, and a bit of gaming.
 
-- A short description about the project — *the what*.
-- A short description about the significance or outcome of the project — *the why*.
+## Divadlo Viola
+
+![Theatre Viola logo on portal gradient background](viola_main.png)
+
+Divadlo Viola (theatre Viola) decided to move to the 21st century with new branding. So we made them look fresh but still with dignity.
 
 <!-- A link to your case study -->
 
-- [View Selected Case Study](case-study.md)
+- [Check it here!](case-study.md)
