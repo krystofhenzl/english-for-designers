@@ -28,7 +28,7 @@ Viola is interesting because <b>3 main pillars:</b>
 At the beginning of the project, we were a bit stuck with unique ideas. We tried for example word clouds, atypic formats, and blurry images... but these ideas did not work well, but then we came up with <b>the concept of portals</b>
 
 ## The concept of portals
-![Image showing the concept of portals](images/portaly.png)
+![Image showing the concept of portals](portaly.png)
 
 <b>Portals</b> - an architectural element you can find all over the place. Portals fit perfectly as our primary visual key.
 
@@ -38,7 +38,7 @@ At the beginning of the project, we were a bit stuck with unique ideas. We tried
 
 <b>Typeface</b> - Font Roc Grotesk suited best for our purposes - Condensed styles for headlines, regular styles for text.
 
-![Viola poster](images/viola_visual.png)
+![Viola poster](viola_visual.png)
 
 ## How does it look today + Learnings
 
