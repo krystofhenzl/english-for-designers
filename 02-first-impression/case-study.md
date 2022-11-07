@@ -47,3 +47,6 @@ We won this tender and the implementation of this project is ongoing now.
 The biggest learning for us was that even if we can not come up with something good for a long time we have to keep going and we will find it.
 
 Also, we learned that making the project live could be hard even though the client loved it at first glance.
+
+
+<b>And that is it! </b>
