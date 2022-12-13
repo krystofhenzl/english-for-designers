@@ -14,7 +14,7 @@ nice little tagline
 
 ## Classwork
 
-- [Alternative Text](/01-alternative-text/index.md)
+- [Alternative Text](01-alternative-text/index.md)
 - First impression
 - Conetent first
 - Experience
