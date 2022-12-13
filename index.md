@@ -19,3 +19,7 @@ nice little tagline
 - Conetent first
 - Experience
 - Voice & Tone
+
+## Extra
+
+- [Takeaways](takeaways/index.md)
