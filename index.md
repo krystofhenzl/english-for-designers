@@ -5,7 +5,7 @@ nice little tagline
 ## About me
 
 - My story
-- Résumé
+- [Résumé](04-experience/index.md)
 - Contact:
 
 ## Case studies
