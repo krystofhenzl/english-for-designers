@@ -106,3 +106,25 @@ Social network management, creating info graphics, print materials, and merchand
 
 Completed many freelance Graphic Design jobs with a strongcustomer satisfaction rate. Various types of jobs - logo design, onlinegraphics, print materials, video edit, web design, and so on. My clientele is very diverse - from small businesses to medium-sized IT companies.
 
+<br/>
+
+## Education
+
+<br/>
+
+### BACHELOR'S DEGREE, GRAPHIC AND MEDIA DESIGN
+#### University of Creative Communication
+
+<table>
+  <tbody>
+    <tr>
+      <td>Currently studying since 2020</td>
+      <td>Prague</td>
+    </tr>
+  </tbody>
+</table>
+
+
+<br/>
+
+
