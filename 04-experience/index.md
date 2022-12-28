@@ -25,6 +25,7 @@
 
 We made fresh new branding for traditional theatre in the centre of Prague. Our team made all new aspects of modern brand - logo, social media kit, animations, website, print materials amd so on.
 
+<br/>
 
 ### Graphic designer
 #### DDBFTW | Prague
@@ -40,6 +41,7 @@ We made fresh new branding for traditional theatre in the centre of Prague. Our 
 
 This company provides global and regional esports and gaming solutions tocurrent clients, and new partners. This job showed me how it works in a ninternational company and involved me in creating engaging campaigns. Mygoal is to prepare visual styles for these campaigns and make new designs(mainly social media) from already-made brand guides.
 
+<br/>
 
 ### Graphic designer
 #### net-inout | Pilsen
@@ -52,6 +54,8 @@ This company provides global and regional esports and gaming solutions tocurrent
     </tr>
   </tbody>
 </table>
+
+<br/>
 
 This IT company specializes primarily in software development and websites.In addition to web design and UI application interfaces, I also create logos, posters, graphics for social networks, etc. for our clients.
 
@@ -69,6 +73,8 @@ This IT company specializes primarily in software development and websites.In ad
 
 My task was to create unique realistic designs for our horror board game called Escape from site 19.
 
+<br/>
+
 ### Head of Promotion
 #### Czech Rugby League
 
@@ -80,6 +86,8 @@ My task was to create unique realistic designs for our horror board game called 
     </tr>
   </tbody>
 </table>
+
+<br/>
 
 Social network management, creating info graphics, print materials, and merchandise for small sport association.
 ### Freelance Graphic designer
