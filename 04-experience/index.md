@@ -9,7 +9,7 @@
 
 ## Experience
 
-
+<br/>
 
 ### Art Director
 #### Theatre Viola | Prague
@@ -55,9 +55,9 @@ This company provides global and regional esports and gaming solutions tocurrent
   </tbody>
 </table>
 
-<br/>
-
 This IT company specializes primarily in software development and websites.In addition to web design and UI application interfaces, I also create logos, posters, graphics for social networks, etc. for our clients.
+
+<br/>
 
 ### Board game designer
 #### Extreme Board Games | Prague
@@ -87,9 +87,10 @@ My task was to create unique realistic designs for our horror board game called 
   </tbody>
 </table>
 
+Social network management, creating info graphics, print materials, and merchandise for small sport association.
+
 <br/>
 
-Social network management, creating info graphics, print materials, and merchandise for small sport association.
 ### Freelance Graphic designer
 
 <table>
