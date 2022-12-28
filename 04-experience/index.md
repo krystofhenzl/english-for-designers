@@ -12,8 +12,10 @@
 <table>
   <tbody>
     <tr>
-      <td>2021</td>
+      <td>2022</td>
       <td>present</td>
     </tr>
   </tbody>
 </table>
+
+#### Art Director
