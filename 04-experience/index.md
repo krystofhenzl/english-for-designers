@@ -7,7 +7,7 @@
 # Kryštof Henzl
 <img src="images/borec.jpg" alt="drawing" width="400"/>
 
-### Experience
+## Experience
 
 <table>
   <tbody>
