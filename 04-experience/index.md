@@ -131,9 +131,9 @@ Currently studying since 2020 | Prague
 <table>
   <tbody>
     <tr>
-      <td><b>English</b>|Very good</td>
-      <td><b>Czech</b>|Native speaker</td>
-      <td><b>German</b>|Beginner</td>
+      <td><b>English</b> | Very good</td>
+      <td><b>Czech</b> | Native speaker</td>
+      <td><b>German</b> | Beginner</td>
     </tr>
   </tbody>
 </table>
