@@ -118,4 +118,10 @@ Currently studying since 2020 | Prague
 
 <br/>
 
+### HIGH SCHOOL, MULTIMEDIA AND WEBDESIGN
+#### Industrial High School
+2016 - 2020 | Jihlava, CZ
+
+<br/>
+
 
