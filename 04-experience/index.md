@@ -138,3 +138,42 @@ Currently studying since 2020 | Prague
   </tbody>
 </table>
 
+<br/>
+
+## Skills
+<ul>
+  <li>BRANDING</li>
+  <li>TYPOGRAPHY</li>
+  <li>IDEA MAKING</li>
+  <li>MOTION DESIGN</li>
+  <li>SOCIAL MEDIA</li>
+  <li>MOBILE & WEB UI DESIGN</li>
+  <li>LEADERSHIP</li>
+  <li>FAST LEARNING</li>
+</ul>
+
+<br/>
+
+## Tools
+<ul>
+  <li>ADOBE PHOTOSHOP</li>
+  <li>ADOBE ILLUSTRATOR</li>
+  <li>IDEA MAKING</li>
+  <li>ADOBE AFTER EFFECTS</li>
+  <li>FIGMA</li>
+  <li>ADOBE PREMIERE PRO</li>
+  <li>HTML & CSS</li>
+  <li>MS OFFICE & GOOGLE DOCS</li>
+</ul>
+
+<br/>
+
+## Interests
+<ul>
+  <li>SPORTS</li>
+  <li>GAMING</li>
+  <li>ECHNOLOGY</li>
+  <li>SUMMER CAMPS</li>
+  <li>TRAVELLING</li>
+</ul>
+
