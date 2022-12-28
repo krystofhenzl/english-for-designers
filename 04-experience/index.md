@@ -7,3 +7,4 @@
 ---
 ## Kryštof Henzl
 <img src="images/borec.jpg" alt="drawing" width="400"/>
+s
