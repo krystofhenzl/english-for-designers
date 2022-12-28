@@ -114,16 +114,7 @@ Completed many freelance Graphic Design jobs with a strongcustomer satisfaction 
 
 ### BACHELOR'S DEGREE, GRAPHIC AND MEDIA DESIGN
 #### University of Creative Communication
-
-<table>
-  <tbody>
-    <tr>
-      <td>Currently studying since 2020</td>
-      <td>Prague</td>
-    </tr>
-  </tbody>
-</table>
-
+Currently studying since 2020 | Prague
 
 <br/>
 
