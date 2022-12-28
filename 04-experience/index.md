@@ -11,7 +11,7 @@
 
 
 
-### Art Director
+### <u>Art Director</u>
 #### Theatre Viola | Prague
 
 <table>
