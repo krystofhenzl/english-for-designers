@@ -9,7 +9,6 @@ Currently I study at University of Creative Communication in Prague. Also I work
 
 ## About me
 
-- My story
 - [Résumé](04-experience/index.md)
 - Contact:
 
