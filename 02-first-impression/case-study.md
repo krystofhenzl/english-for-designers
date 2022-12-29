@@ -45,7 +45,16 @@ At the beginning of the project, we were a bit stuck with unique ideas. We tried
 
 <b>Typeface</b> - Font Roc Grotesk suited best for our purposes - Condensed styles for headlines, regular styles for text.
 
-![Viola poster](viola_visual.png)
+
+### Presentation for client
+This is the presentation we presented to the client.
+
+![Viola visuals](portfolio-02.jpg)
+![Viola visuals](portfolio-03.jpg)
+![Viola visuals](portfolio-05.jpg)
+![Viola visuals](portfolio-06.jpg)
+![Viola visuals](portfolio-07.jpg)
+![Viola visuals](portfolio-08.jpg)
 
 ## How does it look today + Learnings
 
@@ -55,6 +64,6 @@ The biggest learning for us was that even if we can not come up with something g
 
 Also, we learned that making the project live could be hard even though the client loved it at first glance.
 
-
+![Viola poster](viola_visual.png)
 <b>And that is it! </b>
 
