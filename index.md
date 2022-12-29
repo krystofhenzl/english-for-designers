@@ -25,7 +25,7 @@ Currently I study at University of Creative Communication in Prague. Also I work
 - [First impression](02-first-impression/index.md)
 - [Conetent first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
-- Voice & Tone
+- [Voice & Tone](05-voice-tone/index.md)
 
 ## Extra
 
