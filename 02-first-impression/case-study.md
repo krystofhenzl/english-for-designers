@@ -60,11 +60,13 @@ This is the presentation we presented to the client.
 
 We won this project and the implementation of this project is ongoing now.
 
-We had the change some things - especially the color palette and the logo but the portal concept remains.
+We had to change some things - especially the color palette and the logo but the portal concept remains.
 
 Here are some of the actually used visuals:
 
+![Viola main visual](viola_main.png)
 ![Viola poster](viola_visual.png)
+![Viola social media](viola_socky.png)
 
 ### Learnings
 
