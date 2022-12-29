@@ -15,7 +15,9 @@ Currently I study at University of Creative Communication in Prague. Also I work
 
 ## Case studies
 
-- Divadlo Viola
+- [Divadlo Viol](02-first-impression/case-study.md)
+- <a href="https://www.behance.net/gallery/159159849/LG-UltraGear-WatchParty">LG Ultragear Watchparty</a> (Behance)
+- <a href="https://www.behance.net/gallery/159476503/Star-Guardians-Event-Experience">Star Guardians</a> (Behance)
 
 ## Classwork
 
