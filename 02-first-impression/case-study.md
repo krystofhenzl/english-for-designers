@@ -76,3 +76,5 @@ Also, we learned that making the project live could be hard even though the clie
 
 <b>And that is it! </b>
 
+<small>Rate this project on <a href="https:[//www.behance.net/krystofhenzl](https://www.behance.net/gallery/137266289/Theatre-Viola-Visaul-identity)/">Behance</a></small>
+
