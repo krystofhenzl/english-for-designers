@@ -1,6 +1,9 @@
 # Divadlo Viola
 
-![Theatre Viola logo on portal gradient background](viola_main.png)
+![Theatre Viola](VIOLAFOTO.jpg)
+
+## Background
+Theatre Viola is a legendary and magical place in the heart of Prague. With over 60 years of history and specific space and architecture, it is one of the most iconic theatres in Prague. Viola is still quite popular, however, they are not popular with the younger target groups and one of the solutions could be the new visual identity. So Viola approached our school to help them with that. They wanted a new visual identity, social media strategy, website, and many more things.
 
 ### Goal of the project
 Move this theatre to the modern age with new branding
@@ -14,10 +17,10 @@ Graphic designer | Ideamaker | Project manager
 ### Dates
 March 2022 - Present
 
-## Insight
+## Our approach
 ![Theatre Viola auditorium](auditorium.jpg)
 
-Viola is interesting because <b>3 main pillars:</b>
+We created <b>3 main pillars</b> of Viola for ourselves:
 
 
 1. Small and cozy space with specific architecture
