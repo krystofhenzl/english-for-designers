@@ -27,7 +27,6 @@ No one from the new managment of the Theatre knew why they have this logo and th
 
 We created <b>3 main pillars</b> of Viola for ourselves:
 
-
 1. Small and cozy space with specific architecture
 2. Famous actors for cheap prices
 3. Great location in the center of Prague
@@ -36,7 +35,7 @@ We created <b>3 main pillars</b> of Viola for ourselves:
 At the beginning of the project, we were a bit stuck with unique ideas. We tried for example word clouds, atypic formats, and blurry images... but these ideas did not work well, but then we came up with <b>the concept of portals</b>
 
 ## The concept of portals
-![Image showing the concept of portals](portaly.png)
+![Image showing the concept of portals](portal-concept.jpg)
 
 <b>Portals</b> - an architectural element you can find all over the place. Portals fit perfectly as our primary visual key.
 
