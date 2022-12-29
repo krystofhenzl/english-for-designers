@@ -56,14 +56,21 @@ This is the presentation we presented to the client.
 ![Viola visuals](portfolio-07.jpg)
 ![Viola visuals](portfolio-08.jpg)
 
-## How does it look today + Learnings
+## How does it look today
 
-We won this tender and the implementation of this project is ongoing now.
+We won this project and the implementation of this project is ongoing now.
+
+We had the change some things - especially the color palette and the logo but the portal concept remains.
+
+Here are some of the actually used visuals:
+
+![Viola poster](viola_visual.png)
+
+### Learnings
 
 The biggest learning for us was that even if we can not come up with something good for a long time we have to keep going and we will find it.
 
 Also, we learned that making the project live could be hard even though the client loved it at first glance.
 
-![Viola poster](viola_visual.png)
 <b>And that is it! </b>
 
