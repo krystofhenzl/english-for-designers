@@ -22,7 +22,7 @@ Currently I study at University of Creative Communication in Prague. Also I work
 ## Classwork
 
 - [Alternative Text](01-alternative-text/index.md)
-- First impression
+- [First impression](02-first-impression/index.md)
 - Conetent first
 - Experience
 - Voice & Tone
