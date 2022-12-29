@@ -17,6 +17,11 @@ Graphic designer | Ideamaker | Project manager
 ### Dates
 March 2022 - Present
 
+## What it looked like
+No one from the new managment of the Theatre knew why they have this logo and the visuals were very disjointed.
+
+![old visuals](oldviola.png)
+
 ## Our approach
 ![Theatre Viola auditorium](auditorium.jpg)
 
