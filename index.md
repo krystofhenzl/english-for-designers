@@ -11,7 +11,7 @@ Currently I study at University of Creative Communication in Prague. Also I work
 
 - [Résumé](04-experience/index.md)
 - <a href="https://www.behance.net/krystofhenzl/">My portfolio!</a>
-- <a href="krystofhenzl@gmail.com/">Hit me up!</a>
+- Hit me up on <b>krystofhenzl@gmail.com</b>
 
 ## Case studies
 
