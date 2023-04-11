@@ -1,5 +1,13 @@
-This bachelor thesis delves into the concept of rebranding academic esports competitions, with a focus on the 3E Academic Championship, organized by the Czech Esports Association. The Championship was the first of its kind in Czechia, but with the rise in popularity of esports, other companies and organizations have started their academic competitions, leading to increased competition and a decline in the 3E Championship's relevance and fanbase.
+<h1>Kryštof Henzl</h1>
+<h3>Topic of the thesis</h3>
+<b>Rebranding of championship in electronic sports</b>
 
-This research aims to explore the benefits and challenges of rebranding the 3E Academic Championship. Including the development of a new image and identity that better resonates with its target audience and reflects the values and mission of the participating institutions. Through in-depth interviews with the organizers of the Championship and an analysis of other competitions, this study will identify key factors that contribute to successful rebranding efforts for academic esports competitions.
+<h3>Abstract</h3>
+This bachelor thesis deals with the concept of rebranding student competitions in e-sports with a focus on the 3E Academic Championships organized by the Esport Student Association.
 
-The findings of this research will inform a new rebranding strategy for the 3E Academic Championship, encompassing a new visual style and marketing approach, to increase participation and enhance its reputation within the esports community. This research offers valuable insights for academic institutions seeking to rebrand their esports competitions to maintain their relevance and engage with their audience effectively.
+The aim of the whole thesis is to explore the benefits and challenges of rebranding this competition. Including creating a new visual identity that would better resonate with the target audience and bring modernisation to the competition. At the same time, the thesis explores how to better communicate the main benefit of the competition, which is the connection to academia.
+
+The theoretical part studies the topic of rebranding and researches the eSports market. The practical part mainly includes the solution of a new visual style and the implementation of this style on social media, promotional materials and other media. It also proposes communication ways in which the competition can reach new players and sponsors. The work should result in a comprehensive rebranding solution for the 3E Academic Championships that the client can use if they wish.
+
+<h3>Keywords/h3>
+eSport, visual identity, rebranding, communication strategy, graphic design, online, video games
