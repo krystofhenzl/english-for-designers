@@ -9,5 +9,5 @@ The aim of the whole thesis is to explore the benefits and challenges of rebrand
 
 The theoretical part studies the topic of rebranding and researches the eSports market. The practical part mainly includes the solution of a new visual style and the implementation of this style on social media, promotional materials and other media. It also proposes communication ways in which the competition can reach new players and sponsors. The work should result in a comprehensive rebranding solution for the 3E Academic Championships that the client can use if they wish.
 
-<h3>Keywords/h3>
+<h3>Keywords</h3>
 eSport, visual identity, rebranding, communication strategy, graphic design, online, video games
