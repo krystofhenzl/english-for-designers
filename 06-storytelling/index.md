@@ -1,35 +1,33 @@
 
 <h1>✨ From sleepless nights to sweet dreams: How AI can save your time ✨</h1>
 
-<p>Kryštof Henzl</p>
+<p><b>Kryštof Henzl</b></p>
 
 <p>🤖 AI is changing the world super fast and even though it sometimes feel like it is a buzzword it can be super helpful for designers to save time. This storytelling will show some of the examples!</p>
 
+<p>‼️ <b>Disclaimer</b> The field of artificial intelligence is rapidly advancing, with new breakthroughs and developments emerging on a daily basis. So even this presentation might be already outdated. ‼️</p>
+
 <hr>
 
+<a href="https://www.figma.com/file/maB216Ijj5hQzpIvTzUs5o/ENGLISH---PREZO?type=design&node-id=46%3A51&t=8Skxl26Ii7Jy1gAk-1">Check out the presentation in Figma here!</a>
+
+<hr>
+
+<h2>Topics of the presentation</b></h2>
 <ul>
-  <li><a href="/english-for-designers/06-storytelling/process.html">Check out the presentation in Figma here!</a></li>
+  <li>AI generated images</li>
+  <li>Image helpers</li>
+  <li>UI design</li>
+  <li>Typography & Colors</li>
+  <li>Ultimate tool</li>
+  <li>Conclusion</li>
 </ul>
 
 <hr>
 
-<h2 id="main-points-of-the-presentation"><em>main points of the presentation</em><a class="anchorjs-link " href="#main-points-of-the-presentation" aria-label="Anchor" data-anchorjs-icon="" style="font: 1em / 1 anchorjs-icons; padding-left: 0.375em;"></a></h2>
-<ul>
-  <li>AUTHENTICITY</li>
-  <li>AUDIENCE FIRST</li>
-  <li>OWN THE CONTENT</li>
-  <li>SUBSTANCE VS AESTHETICS</li>
-  <li>NEVER STOP LEARING</li>
-</ul>
+<h1>AI Generared images</h1>
 
-<hr>
-
-<h1 id="authenticity-always-win">AUTHENTICITY ALWAYS WIN</h1>
-
-<p><em>BE AUTHENTIC IN WHO YOU ARE</em> 
- —</p>
-
-<p><img src="https://user-images.githubusercontent.com/116068266/236202390-663f5c4f-d610-487c-87ed-354c73156013.jpg" alt="still-life-business-roles-with-various-pawns"></p>
+<p><img src="https://user-images.githubusercontent.com/116068266/236202390-663f5c4f-d610-487c-87ed-354c73156013.jpg" alt="AI generated image of pope with cool´white jacket"></p>
 
 <ul>
   <li>speak how you speak</li>
