@@ -17,3 +17,20 @@
 
 <h1>The purpose of the work<h1>
   <h3>What is esport</h3>
+<p>“Esports turns online gaming into a spectator sport. It mimics the experience of watching a professional sporting event, except instead of watching a physical event, spectators watch video gamers compete against each other. The esports trend has become so widespread in recent years that games can often be viewed at an organized arena event.”</p>
+<img src="esportphotos.png>
+          
+  <h3>3E Academic Championshop</h3>
+<p>3E Academic Championship (abbreviated 3E:AM) is an e-sports competition for students of Czech universities. The competition has been running regularly since 2018 and is thus a traditional competition).
+
+A special event is the semester finals, which usually takes place offline on the campus of some of the universities. This event is also linked to an accompanying programme such as lectures.
+
+The aim of the ESA organisation, which runs the competition, is to link education with esport through lectures and workshops.
+
+However, due to the emergence of new student competitions, and the interest of other big brands, interest in 3E:AM is starting to decline significantly.
+
+</p>
+
+<img src="3eamphotos.png>
+          
+          
