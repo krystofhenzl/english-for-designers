@@ -13,7 +13,7 @@
 
 <hr>
 
-<h2>Topics of the presentation</b></h2>
+<h2>Topics of the presentation</h2>
 <ul>
   <li>AI generated images</li>
   <li>Image helpers</li>
