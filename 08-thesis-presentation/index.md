@@ -126,4 +126,52 @@ The content should be divided into these categories:
 
 <h1>Offline Merch</h1>
 
+<h3>Compression sleeve</h3>
+<p>Compression sleeves are popular among players as they reduce muscle fatigue and improve blood circulation in the arm, which can be a key factor during a long game.</p>
+<p> <img src="sleeve.png"> </p>
+
+<h3>Mousepad</h3>
+<p>Most esport games require a high level of precision and mouse speed. A large pad allows players more room to move, which can improve the accuracy and speed.</p>
+<p> <img src="mousepad.png"> </p>
+
+<h3>Blue light glasses</h3>
+<p>Gamers spend a lot of time in front of the computer, exposing themselves to high levels of blue light that can negatively affect their health and performance. Glasses with a blue light filter are designed to block some blue light.</p>
+<p> <img src="glasses.png"> </p>
+
+<h3>Hoodie</h3>
+<p>Everyone wants a cool hoodie... right?</p>
+<p> <img src="hoodie.png"> </p>
+
+<h3>Trophy</h3>
+<p>In this case, of course, it is not an item suitable for sale. An original and good-looking trophy can be an interesting part of 3E:AM that will stand out from the common idea of a trophy as a gold cup.</p>
+<p> <img src="trophy.png"> </p>
+  
+<h1>Online merch</h1>
+
+<h3>Hearthstone Wallpapers</h3>
+<p>Simple free wallpapers for fans on their computer or mobile phone can be a very simple but effective promotional material.  I created a wallpaper design that usesa character from the Hearthstone game, but uses my visual style.</p>
+<p> <img src="wallpapers.png"> </p>
+  
+<h3>CS:GO Weapon Skins</h3>
+<p>Skins are one of the most iconic features in CS:GO. Although skins are physically intangible, players pay real money for them in order to have the nicest and rarest looking weapon possible. However, it is also possible to create your own skins and offer them for money or for free. For 3E:AM I have created a design for such a skin for the MAC-10 weapon.</p>
+<p> <img src="skins.gif"> </p>
+
+<h3>LOL AR Filter</h3>
+<p>I created an AR filter that allows League of Legends fans to select their favorite character. Out of a total of 16 characters, the user always votes in each duel by nodding their head. In the end, there will be one last, most popular character.</p>
+<p> <img src="arfilter.gif"> </p>
+<p> <img src="qrcodear.png"> </p>
+  
+<h1>Marketing Directions</h1>
+  
+  <h3>Influencers</h3>
+  <p>Influencers can be used as ambassadors. Ambassadors are usually people with a large social media following who can spread brand awareness by posting content from events, informing about news, etc.</p>
+  
+  <h3>Competetive education</h3>
+  <p>3E:AM may include additional tournaments, not in computer games, but in areas such as financial literacy, programming, etc. Here, a link with the already ongoing competitions is proposed.</p>
+  
+  <h3>International</h3>
+  <p>Winning 3E:AM can serve as a qualification for international tournaments. This attribute can make the whole competition much more attractive.</p>
+  
+  
+  <b>THAT IS IT, THANKS!</B>
 
