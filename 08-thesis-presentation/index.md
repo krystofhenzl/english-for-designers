@@ -156,7 +156,7 @@ The content should be divided into these categories:
   
 <h3>CS:GO Weapon Skins</h3>
 <p>Skins are one of the most iconic features in CS:GO. Although skins are physically intangible, players pay real money for them in order to have the nicest and rarest looking weapon possible. However, it is also possible to create your own skins and offer them for money or for free. For 3E:AM I have created a design for such a skin for the MAC-10 weapon.</p>
-<p> <img src="skins.gif"> </p>
+<p> <img src="skins.png"> </p>
 
 <h3>LOL AR Filter</h3>
 <p>I created an AR filter that allows League of Legends fans to select their favorite character. Out of a total of 16 characters, the user always votes in each duel by nodding their head. In the end, there will be one last, most popular character.</p>
