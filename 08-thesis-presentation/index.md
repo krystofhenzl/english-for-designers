@@ -42,32 +42,32 @@ There is no united visual style nowadays. The visuals look so random and they ev
 </p>
 <img src="currentstatus.png">
   
-  <h1>New logo</h1>
-    <p> The logo has three meanings:
-      <ul>
-        <li>The logo symbolizes the battle of 2 sides for the trophy... just like in an esports match.</li>
-        <li>The symbol in the middle represents a trophy for the winner and also an exclamation mark, which is often used in games to indicate danger.</li> 
-        <li>The symbols on the sides are "just" mirrored reversed, but still one is a "3" and the other an "E"</li>
-      </ul>
-        <p> <img src="logo3eam.png"> </p>
-          </p>
+<h1>New logo</h1>
+The logo has three meanings:
+<ul>
+<li>The logo symbolizes the battle of 2 sides for the trophy... just like in an esports match.</li>
+<li>The symbol in the middle represents a trophy for the winner and also an exclamation mark, which is often used in games to indicate danger.</li> 
+<li>The symbols on the sides are "just" mirrored reversed, but still one is a "3" and the other an "E"</li>
+</ul>
+<p> <img src="logo3eam.png"> </p>
+
         
 <h1>Colors & Typography</h1>
-        <h3>CGA color scheme</h3>
-        <p>The visual style has two main colors (pink and turquoise), this color scheme loosely refers to old video games from the 80s and 90s that made extensive use of the CGA graphics standard, which was the first standard for color graphics on the PC. These colours are almost complementary, which ensures good contrast. Also I created gradients from these colors.</p>
-         <p> <img src="cga.gif"> </p>
-          <p> These colours are almost complementary, which ensures good contrast. Also I created gradients from these colors.</p>
-          <p> <img src="colors.png"> </p>
-<p>
-           <h3>Typography</h3>
+<h3>CGA color scheme</h3>
+<p>The visual style has two main colors (pink and turquoise), this color scheme loosely refers to old video games from the 80s and 90s that made extensive use of the CGA graphics standard, which was the first standard for color graphics on the PC. These colours are almost complementary, which ensures good contrast. Also I created gradients from these colors.</p>
+<p> <img src="cga.gif"> </p>
+ <p> These colours are almost complementary, which ensures good contrast. Also I created gradients from these colors.</p>
+<p> <img src="colors.png"> </p>
+
+<h3>Typography</h3>
 <h4> Acumin Pro </h4>
 <p>The main font is Acumin Pro. It is a neogrotesque sans serif font that is suitable for both headlines and regular text. The 2 main versions used for headings are ExtraCondensed Black and Wide Black. For the Wide version, I have taken the liberty of stretching the font to 150% of its width in some cases. The font is used exclusively in headings with a few exceptions. For regular text it is advisable to use the Medium version.</p>
-          <p><img src="acumin.png"></p>
+<p><img src="acumin.png"></p>
           
 <h4> Akkurat Mono </h4>
 <p>For subheadings, minor texts and decorative elements I chose Akkurat Mono. The non-proportional Akkurat, together with the proportional Acumin, creates the necessary contrast. In the visual identity, the Regular and Bold cuts are used (but the latter is the primary variant). On the other hand, from Acumin onwards, the typeface does not have to be used exclusively in versals.</p>
-          <p><img src="akkurat.png"></p>
-</p>
+<p><img src="akkurat.png"></p>
+
           
 
 
@@ -92,8 +92,6 @@ There is no united visual style nowadays. The visuals look so random and they ev
 <img src="countdown.gif">
 
 <img src="idlescreen.gif">
-         
-</p>
 
 <h1>Social Media & Webiste</h1>
 <h3>Instagram</h3>
