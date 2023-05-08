@@ -18,7 +18,7 @@
 <h1>The purpose of the work<h1>
   <h3>What is esport</h3>
 <p>“Esports turns online gaming into a spectator sport. It mimics the experience of watching a professional sporting event, except instead of watching a physical event, spectators watch video gamers compete against each other. The esports trend has become so widespread in recent years that games can often be viewed at an organized arena event.”</p>
-<img src="esportphotos.png>
+<img src="esportphotos.png">
           
   <h3>3E Academic Championshop</h3>
 <p>3E Academic Championship (abbreviated 3E:AM) is an e-sports competition for students of Czech universities. The competition has been running regularly since 2018 and is thus a traditional competition).
@@ -26,15 +26,29 @@
 A special event is the semester finals, which usually takes place offline on the campus of some of the universities. This event is also linked to an accompanying programme such as lectures.
 
 The aim of the ESA organisation, which runs the competition, is to link education with esport through lectures and workshops.
- <img src="3eamphotos.png>
+ <img src="3eamphotos.png">
           </p>
 <p>
          
 However, due to the emergence of new student competitions, and the interest of other big brands, interest in 3E:AM is starting to decline significantly.
- <img src="3eamgraph1.png>
- <img src="3eamgraph2.png>
+  <p> <img src="3eamgraph1.png"> </p>
+  <p> <img src="3eamgraph2.png"> </p>
 </p> 
 
+  <p>
+There is no united visual style nowadays. The visuals look so random and they even do not look good. The logo is fine by me but it is too complicated. 
+</p>
+    <p> <img src="currentstatus.png"> </p>
+  
+  <h1>New logo<h1>
+    <p> The logo has three meanings:
+      <ul>
+        <li>The logo symbolizes the battle of 2 sides for the trophy... just like in an esports match.</li>
+        <li>The symbol in the middle represents a trophy for the winner and also an exclamation mark, which is often used in games to indicate danger.</li> 
+        <li>The symbols on the sides are "just" mirrored reversed, but still one is a "3" and the other an "E"</li>
+      <ul>
+        <p> <img src="logo3eam.png"> </p>
+          </p>
 
           
           
