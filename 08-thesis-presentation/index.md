@@ -82,3 +82,48 @@ There is no united visual style nowadays. The visuals look so random and they ev
 <h3>Repetitive elements</h3>
 <p>Repeating elements are used to fill the empty space. These elements can be a repeating symbol or a filled text box with the same text.</p>
 <p> <img src="repetetive.png"> </p>
+
+<h1>Motion deign</h1>
+<p>Motion design is very useful for my subject as it is used during livestreams, on social networks, etc. It is much more interesting than the classic static visuals.</p>
+         <p> <img src="intro.gif"> </p>
+         <p> <img src="countdown.gif"> </p>
+         <p> <img src="idlescreen.gif"> </p>
+
+<h1>Social Media & Webiste</h1>
+<h3>Instagram</h3>
+<p>Most important social media for the 3E:AM.
+The content should be divided into these categories:
+
+<ul><li>Information on the competition process</li>
+
+<li>Educational content</li>
+
+<li>Memes</li>
+
+<li>Highlights (Reels)</li>
+
+<li>Photos</li></ul>
+<p> <img src="insta.png"> </p>
+</p>
+
+<h3>Facebook</h3>
+<p>Same content as on the Instagram. But also using the feature of Facebook events.
+<p> <img src="fb.png"> </p>
+</p>
+
+<h3>TikTok</h3>
+<p>Focusing more on the highlights from the games and lectures. Also more of the meme content.
+<p> <img src="tiktok.png"> </p>
+</p>
+
+<h3>LinkedIn</h3>
+<p>Completely different content. Content should be targeted primarily at potential sponsors and employers. It should show the benefits of esport and how it is interesting for big companies.
+<p> <img src="linkedin2.png"> </p>
+</p>
+
+<h3>Website</h3>
+<p> <img src="web.png"> </p>
+
+<h1>Offline Merch</h1>
+
+
