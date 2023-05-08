@@ -15,7 +15,7 @@
   <li>Finish</li>
 </ul>
 
-<h1>The purpose of the work<h1>
+<h1>The purpose of the work</h1>
   <h3>What is esport</h3>
 <p>“Esports turns online gaming into a spectator sport. It mimics the experience of watching a professional sporting event, except instead of watching a physical event, spectators watch video gamers compete against each other. The esports trend has become so widespread in recent years that games can often be viewed at an organized arena event.”</p>
 <img src="esportphotos.png">
