@@ -87,9 +87,13 @@ There is no united visual style nowadays. The visuals look so random and they ev
 
 <h1>Motion deign</h1>
 <p>Motion design is very useful for my subject as it is used during livestreams, on social networks, etc. It is much more interesting than the classic static visuals.</p>
-         <p> <img src="intro.gif"> </p>
-         <p> <img src="countdown.gif"> </p>
-         <p> <img src="idlescreen.gif"> </p>
+<img src="intro.gif">
+         
+<img src="countdown.gif">
+
+<img src="idlescreen.gif">
+         
+</p>
 
 <h1>Social Media & Webiste</h1>
 <h3>Instagram</h3>
