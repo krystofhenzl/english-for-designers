@@ -25,7 +25,9 @@
 
 A special event is the semester finals, which usually takes place offline on the campus of some of the universities. This event is also linked to an accompanying programme such as lectures.
 
-The aim of the ESA organisation, which runs the competition, is to link education with esport through lectures and workshops.
+The aim of the ESA organisation, which runs the competition, is to link education with esport through lectures and workshops.</p>
+
+<P>
  <img src="3eamphotos.png">
           </p>
 <p>
