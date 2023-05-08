@@ -26,11 +26,15 @@
 A special event is the semester finals, which usually takes place offline on the campus of some of the universities. This event is also linked to an accompanying programme such as lectures.
 
 The aim of the ESA organisation, which runs the competition, is to link education with esport through lectures and workshops.
-
+ <img src="3eamphotos.png>
+          </p>
+<p>
+         
 However, due to the emergence of new student competitions, and the interest of other big brands, interest in 3E:AM is starting to decline significantly.
+ <img src="3eamgraph1.png>
+ <img src="3eamgraph2.png>
+</p> 
 
-</p>
 
-<img src="3eamphotos.png>
           
           
