@@ -8,7 +8,7 @@
   [Colors and Typography](#colors-and-typography)<br/>
   [Components of the visual style](#components-of-the-visual-style)<br/>
   [Motion design](#motion-design)<br/>
-  [Social Media and Webiste](#social-media-strategy-and-website)<br/>
+  [Social Media and Webiste](#social-media-and-website)<br/>
   [Offline merchandise](#offline-merchandise)<br/>
   [Online merchandise](#online-merchandise)<br/>
   [Marketing directions](#marketing-directions)<br/>
@@ -83,7 +83,7 @@ The logo has three meanings:
 <p>Repeating elements are used to fill the empty space. These elements can be a repeating symbol or a filled text box with the same text.</p>
 <p> <img src="repetetive.png"> </p>
 
-<h1>Motion deign</h1>
+<h1>Motion design</h1>
 <p>Motion design is very useful for my subject as it is used during livestreams, on social networks, etc. It is much more interesting than the classic static visuals.</p>
 <img src="intro.gif">
          
@@ -126,7 +126,7 @@ The content should be divided into these categories:
 <h3>Website</h3>
 <p> <img src="web.png"> </p>
 
-<h1>Offline Merch</h1>
+<h1>Offline Merchandise</h1>
 
 <h3>Compression sleeve</h3>
 <p>Compression sleeves are popular among players as they reduce muscle fatigue and improve blood circulation in the arm, which can be a key factor during a long game.</p>
@@ -148,7 +148,7 @@ The content should be divided into these categories:
 <p>In this case, of course, it is not an item suitable for sale. An original and good-looking trophy can be an interesting part of 3E:AM that will stand out from the common idea of a trophy as a gold cup.</p>
 <p> <img src="trophy.png"> </p>
   
-<h1>Online merch</h1>
+<h1>Online merchandise</h1>
 
 <h3>Hearthstone Wallpapers</h3>
 <p>Simple free wallpapers for fans on their computer or mobile phone can be a very simple but effective promotional material.  I created a wallpaper design that usesa character from the Hearthstone game, but uses my visual style.</p>
