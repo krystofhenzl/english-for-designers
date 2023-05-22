@@ -3,7 +3,7 @@
 
 <h1>Table of contents</h1>
 <ul>
-  <li>The purpose of the work</li>
+  <li>[The purpose of the work](#the-purpose-of-the-work)</li>
   <li>New logo</li>
   <li>Colors & Typography</li>
   <li>Components of the visual style</li>
