@@ -4,16 +4,15 @@
 <h1>Table of contents</h1>
 
   [The purpose of the work](#the-purpose-of-the-work)
-  <li>New logo</li>
-  <li>Colors & Typography</li>
-  <li>Components of the visual style</li>
-  <li>Motion design</li>
-  <li>Social media strategy & Website</li>
-  <li>Offline merchandise</li>
-  <li>Online merchandise</li>
-  <li>Marketing directions</li>
-  <li>Finish</li>
-</ul>
+  [New logo](#new-logo)
+  [Colors & Typography](#colors-&-typography)
+  [Components of the visual style](#compoments-of-the-visual-style)
+  [Motion design](#motion-design)
+  [Social media strategy & Website](#social-media-strategy-&-website)
+  [Offline merchandise](#offline-merchandise)
+  [Online merchandise](#online-merchandise)
+  [Marketing directions](#marketing-directions)
+  [Finish](#finish)
 
 <h1>The purpose of the work</h1>
   <h3>What is esport</h3>
