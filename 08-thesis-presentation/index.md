@@ -91,7 +91,7 @@ The logo has three meanings:
 
 <img src="idlescreen.gif">
 
-<h1>Social Media and Webiste</h1>
+<h1>Social Media and Website</h1>
 <h3>Instagram</h3>
 <p>Most important social media for the 3E:AM.
 The content should be divided into these categories:
