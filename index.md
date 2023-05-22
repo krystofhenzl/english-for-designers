@@ -1,11 +1,9 @@
 # Hi, I'm Kryštof
 
 Hey!
+My name is Kryštof. I’m a graphic designer specializing in online/social media/websites. But don’t get me wrong — I can design you some print materials as well if you need ( ❛ ͜ʖ ͡❛).
 
-My name is Kryštof. I am a graphic designer, specialized in online/social media/websites but do not get me wrong I can design you some print materials as well if you need ( ❛ ͜ʖ ͡❛).
-
-Currently I study at University of Creative Communication in Prague. Also I work at agency, called DDB FTW. However I am open to any freelance job. So check out my projects and hit me up!
-
+I currently study at the University of Creative Communication in Prague. Also, I work at the agency DDB FTW. However, I’m open to any freelance job. So check out my projects and hit me up!
 
 ## About me
 
@@ -26,7 +24,17 @@ Currently I study at University of Creative Communication in Prague. Also I work
 - [Conetent first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
 - [Voice & Tone](05-voice-tone/index.md)
+- [Storytelling](06-storytelling/index.md)
+
+## Thesis
+
+- [Thesis abstract](07-thesis-abstract/index.md)
+- [Thesis presentation](08-thesis-presentation/index.md)
 
 ## Extra
 
-- [Takeaways](takeaways/index.md)
+- [Takeaways (1st semester)](takeaways/index.md)
+
+## Year End Review
+
+- [Year End Review](00-year-end-review/index.md)
