@@ -5,10 +5,10 @@
 
   [The purpose of the work](#the-purpose-of-the-work)<br/>
   [New logo](#new-logo)<br/>
-  [Colors & Typography](#colors-&-typography)<br/>
+  [Colors and Typography](#colors-and-typography)<br/>
   [Components of the visual style](#compoments-of-the-visual-style)<br/>
   [Motion design](#motion-design)<br/>
-  [Social media strategy & Website](#social-media-strategy-&-website)<br/>
+  [Social media strategy and Website](#social-media-strategy-and-website)<br/>
   [Offline merchandise](#offline-merchandise)<br/>
   [Online merchandise](#online-merchandise)<br/>
   [Marketing directions](#marketing-directions)<br/>
@@ -50,7 +50,7 @@ The logo has three meanings:
 <p> <img src="logo3eam.png"> </p>
 
         
-<h1>Colors & Typography</h1>
+<h1>Colors and Typography</h1>
 <h3>CGA color scheme</h3>
 <p>The visual style has two main colors (pink and turquoise), this color scheme loosely refers to old video games from the 80s and 90s that made extensive use of the CGA graphics standard, which was the first standard for color graphics on the PC. These colours are almost complementary, which ensures good contrast. Also I created gradients from these colors.</p>
 <p> <img src="cga.gif"> </p>
@@ -91,7 +91,7 @@ The logo has three meanings:
 
 <img src="idlescreen.gif">
 
-<h1>Social Media & Webiste</h1>
+<h1>Social Media and Webiste</h1>
 <h3>Instagram</h3>
 <p>Most important social media for the 3E:AM.
 The content should be divided into these categories:
