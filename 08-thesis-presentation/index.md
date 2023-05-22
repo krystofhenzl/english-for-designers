@@ -2,7 +2,7 @@
 <a href="https://www.figma.com/file/fMgCcSWo0Q8yqMxDczCzRu/3E-Akadamick%C3%A9-mistrovstv%C3%AD?type=design&node-id=710%3A654&t=zeVzU0BnVyFSkBeq-1">Full presentation is here!</a>
 
 
-<a href="3EAM_HENZL_BACHELORTHESIS.pdf>PDF Version</a>
+<a href="3EAM_HENZL_BACHELORTHESIS.pdf> PDF Version </a>
 
 
 <h1>Table of contents</h1>
