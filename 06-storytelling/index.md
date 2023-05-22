@@ -3,6 +3,9 @@
 
 <p><b>Kryštof Henzl</b></p>
 
+
+<a href="storytelling_henzl.pdf">PDF version</a>
+
 <p>🤖 AI is changing the world super fast and even though it sometimes feel like it is a buzzword it can be super helpful for designers to save time. This storytelling will show some of the examples!</p>
 
 <p>‼️ <b>Disclaimer</b> The field of artificial intelligence is rapidly advancing, with new breakthroughs and developments emerging on a daily basis. So even this presentation might be already outdated. ‼️</p>
